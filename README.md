@@ -11,6 +11,8 @@ I’m an applied AI and data scientist with a focus on large language models (LL
 
 ## 📧 Email me :
 
+
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=almazi&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=almazi&theme=vue-dark&hide_border=true)<br/>
