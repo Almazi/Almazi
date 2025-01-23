@@ -1,4 +1,4 @@
-# 💫About Me :
+# <img src="thinking-rotating.gif" width="30" /> About Me :
 ## Hi there 👋 I am Ahmad!
 
 I’m an applied AI and data scientist with a focus on large language models (LLMs), deep learning, and graph neural networks (GNNs). I work on advancing AI research, developing tools that solve real-world problems. 
