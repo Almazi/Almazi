@@ -18,7 +18,7 @@ I’m an applied AI and data scientist with a focus on large language models (LL
 ![](https://github-readme-streak-stats.herokuapp.com/?user=almazi&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=almazi&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ "Identity theft is not a joke, Jim!" - Dwight Kurt Schrute III
+### ✍️ "Not everything is a lesson Ryan, sometimes you just fail" - Dwight Kurt Schrute III
 
 <img src="dwight-schrute-king.gif" />
 
